@@ -24,7 +24,7 @@ export default function NavBar() {
             
           </Nav>
         </Navbar.Collapse>
-        <Navbar.Brand href="#home">Happy Cake 🎂</Navbar.Brand> 
+        <Navbar.Brand >Happy Cake 🎂</Navbar.Brand> 
       </Container>
     </Navbar>
   );
